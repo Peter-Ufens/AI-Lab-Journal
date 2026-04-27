@@ -2,9 +2,7 @@
 
 Projets publies et consultables publiquement.
 
-| Projet | Description | Lien |
-|---|---|---|
-| ai-studio-prototype-v1 | Premier prototype IA, point de depart visible avant les briques actuelles | https://github.com/Peter-Ufens/ai-studio-prototype-v1 |
+Aucun projet release pour le moment. Les projets WIP basculeront ici quand ils seront stables et publiables.
 
 ## Regle
 
