@@ -22,3 +22,6 @@
 ## Principe
 
 Cette page est mise a jour a chaque jalon valide pour garder une trace factuelle du parcours.
+
+---
+Mise a jour : 2026-04-27
