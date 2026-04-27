@@ -1,43 +1,54 @@
 # AI Lab Journal - Peter Ufens
 
-Portfolio public de ma progression en IA, en mode vibe coding, avec des traces concretes et evolutives.
+Portfolio public de ma progression en IA - du systeme a l'intelligence artificielle.
 
-## Pourquoi ce repo existe
+## Qui je suis
 
-Je viens d'un parcours systeme (11 ans IT), pas d'un cursus developpeur classique.
-Ce repo documente mon chemin reel:
+Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 un pivot vers l'intelligence artificielle. Approche pragmatique : construire des briques concretes, documenter la progression, et rendre le travail lisible aussi bien pour des profils techniques que non techniques. Base en France, francophone.
 
-- fondation sur plusieurs mois de montee en competence IA
-- acceleration en mars 2026 avec Cursor et Claude Code
-- execution par briques projet (RAG, Vault, MCP, Lyla-OS)
+## Ce que je documente ici
 
-Je montre les reussites, les limites, et les iterations. L'objectif n'est pas de paraitre parfait, mais d'etre transparent et utile.
+- Architecture et outillage IA (locaux et cloud).
+- Briques RAG, agents, orchestrations multi-modeles.
+- Demonstrations vulgarisees pour profils metier (presentations Gamma).
+- Progression certifications et journal mensuel.
+
+## Statut publication des projets
+
+| Projet | Visibilite | Note |
+|---|---|---|
+| AI-Lab-Journal | Public | Ce hub. |
+| rag-core | Prive | Bascule public planifiee apres audit qualite. |
+| rag-vault | Prive | Bascule public planifiee apres audit qualite. |
+| rag-connectors | Prive | Bascule public planifiee apres audit qualite. |
+| Lyla-OS | Prive | Projet personnel, decision de bascule ulterieure. |
+
+Certains projets restent prives le temps d'un audit qualite (secrets, conformite, presentation). Ils basculent en public quand ils sont prets.
 
 ## Sections principales
 
-- Presentations Gamma: `presentations/`
-- Journal mensuel: `journal/`
-- Ressources et stack: `resources.md`
-- Progression certifications: `certifications/progression.md`
+- Presentations Gamma : `presentations/README.md`
+- Journal mensuel : `journal/`
+- Ressources et stack : `resources.md`
+- Progression certifications : `certifications/progression.md`
+- Conventions projets : `docs/conventions-projets.md`
+- Working rules : `docs/working-rules.md`
+- ADR : `docs/adr/`
 
 ## Certifications en cours
 
-- Claude 101 (validee le 19 avril 2026)
-- GH-900 (GitHub Foundations)
-- AB-730 (AI Business Professional)
-- AI-901 -> AI-103 -> AB-731 (trajectoire)
+- Claude 101 : validee le 19 avril 2026.
+- GH-900 (GitHub Foundations) : en cours.
+- AB-730 (AI Business Professional) : priorite court terme.
+- AI-901 : planifiee apres AB-730.
+- AI-103 : trajectoire ete 2026.
+- AB-731 (AI Transformation Leader) : cible long terme.
 
-## Projets suivis
+Detail et logique de progression : `certifications/progression.md`.
 
-- `rag-core` (en cours): pipeline RAG local, approche brique par brique
-- `ai-studio-prototype-v1` (public): premier prototype
-- Lyla-OS (en evolution): projet principal de long terme
+## Comment me joindre
 
-## Positionnement
+- GitHub : Peter-Ufens.
+- Je publie regulierement des presentations Gamma utilisees aussi pour des cours sur l'intelligence artificielle.
 
-Ce portfolio est pense pour:
-
-- les profils techniques (architecture, outillage, execution)
-- les profils non techniques et commerciaux (vision, usages, impacts)
-
-Chaque projet vise a avoir une presentation visuelle vulgarisee, avec des use cases concrets.
+Pas d'email ni de telephone publies ici (anti-scraping). Pour un contact professionnel, passer par GitHub.
