@@ -18,6 +18,7 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 | Projet | Visibilite | Note |
 |---|---|---|
 | AI-Lab-Journal | Public | Ce hub. |
+| lyla-prototype | Public | Prototype IA local-first, vitrine technique. |
 | rag-core | Prive | Bascule public planifiee apres audit qualite. |
 | rag-vault | Prive | Bascule public planifiee apres audit qualite. |
 | rag-connectors | Prive | Bascule public planifiee apres audit qualite. |
