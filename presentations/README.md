@@ -37,7 +37,7 @@ Mes propres projets et trajectoire d'apprentissage.
 | # | Sujet | Audience | Use case | Statut | Lien |
 |---|---|---|---|---|---|
 | 06 | Mon ecosysteme IA personnel | Mixte (metier + pairs IT) | Stack et workflow d'un sysadmin en pivot IA | Publiee (mai 2026) | https://gamma.app/docs/Mon-ecosysteme-IA-personnel-xlw5c0nh35mc4n9 |
-| 07 | Mon IA accessible de partout (projet Raspberry Pi) | Tech + jury VAE | Architecture mobile/local hybride avec Wake-on-LAN | Plan d'execution (Q2-Q3 2026) | https://gamma.app/docs/Mon-IA-accessible-de-partout-kayi00c587jj4iz |
+| 07 | Mon IA accessible de partout (projet Raspberry Pi) | Tech + jury technique | Architecture mobile/local hybride avec Wake-on-LAN | Plan d'execution (Q2-Q3 2026) | https://gamma.app/docs/Mon-IA-accessible-de-partout-kayi00c587jj4iz |
 | 08 | AI Pocket Coach - Revise l'IA dans ta poche | Mixte (produit + pedagogie IA) | Application mobile educative IA | Vision projet (en cours) | https://gamma.app/docs/AI-Pocket-Coach-Revise-lIA-dans-ta-poche-uvxy9qq1q0mzqo9 |
 | 09 | De l'admin systeme a JARVIS | Recruteurs, managers | Trajectoire personnelle vers l'IA | Publiee (avril 2026) | https://gamma.app/docs/De-ladmin-systeme-a-JARVIS-7s4lrjf92j3e4yt?mode=doc |
 
