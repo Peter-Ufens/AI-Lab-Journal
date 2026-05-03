@@ -22,7 +22,7 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 | rag-core | Prive | Bascule public planifiee apres audit qualite. |
 | rag-vault | Prive | Bascule public planifiee apres audit qualite. |
 | rag-connectors | Prive | Bascule public planifiee apres audit qualite. |
-| mcp-server | Prive | Roadmap V1/V2/V3 + API REST documentee, pre-implementation. |
+| iris-mcp-server | Prive | Serveur MCP TypeScript modulaire, 5 outils operationnels (v0.2.0), migration depuis Hybrid-Agentic-Studio. |
 | Lyla-OS | Prive | Projet personnel, decision de bascule ulterieure. |
 
 Certains projets restent prives le temps d'un audit qualite (secrets, conformite, presentation). Ils basculent en public quand ils sont prets.
