@@ -30,6 +30,16 @@ Pour qui veut mettre les mains dans le concret.
 | 04 | Faire tourner une IA sur son PC en 4 etapes | Profils metier curieux | Tutoriel IA locale (Ollama, HuggingFace, LLM Checker) | Publiee (mai 2026) | https://gamma.app/docs/Faire-tourner-une-IA-sur-son-PC-en-4-etapes-kb1cg2xuckkkr0p |
 | 05 | Construire un reseau orchestre de LLMs chez soi en no-code | Profils techniques, consultants | Architecture locale pragmatique | Publiee (avril 2026) | https://gamma.app/docs/Construire-un-reseau-orchestre-de-LLMs-chez-soi-en-no-code-fh3jp4fo23iehqm |
 
+## Serie RAG — Les 12 architectures RAG
+
+Pour qui veut comprendre les approches RAG sans plonger dans le code.
+
+| # | Sujet | Audience | Use case | Statut | Lien |
+|---|---|---|---|---|---|
+| 10 | Les 12 architectures RAG — Partie 1 : Les Fondations | Mixte, debutants IA | Comprendre Naive, Semantic, Advanced, Hybrid RAG | Publiee (mai 2026) | https://gamma.app/docs/Les-12-architectures-RAG-Partie-1-Les-Fondations-ofwlpca8d82qv44 |
+| 11 | Les 12 Architectures RAG — Partie 2 : Le RAG qui Reflechit | Mixte, chefs de projet | Comprendre HyDE, Self-RAG, CRAG, Modular RAG | Publiee (mai 2026) | https://gamma.app/docs/Les-12-Architectures-RAG-Partie-2-Le-RAG-qui-Reflechit-78v3mxi39d69dhl |
+| 12 | Les 12 Architectures RAG — Partie 3 : La Frontiere de l'Art | Managers, consultants | Comprendre Graph RAG, Agentic RAG, CAG, Multimodal RAG | Publiee (mai 2026) | https://gamma.app/docs/Les-12-Architectures-RAG-Partie-3-La-Frontiere-de-lArt-hl0806r9ziirfpk |
+
 ## Vitrine projets personnels
 
 Mes propres projets et trajectoire d'apprentissage.
