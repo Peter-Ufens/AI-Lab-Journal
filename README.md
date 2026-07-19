@@ -19,6 +19,7 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 |---|---|---|
 | AI-Lab-Journal | Public | Ce hub. |
 | lyla-prototype | Public | Prototype IA local-first, vitrine technique. |
+| [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public | Template Obsidian + recherche dans les notes (RAG) — mode d'emploi **debutant** (RH / metier / assistant IA), sans donnees personnelles. |
 | rag-core | Prive | Bascule public planifiee apres audit qualite. |
 | rag-vault | Prive | Bascule public planifiee apres audit qualite. |
 | rag-connectors | Prive | Bascule public planifiee apres audit qualite. |
@@ -29,13 +30,14 @@ Certains projets restent prives le temps d'un audit qualite (secrets, conformite
 
 ## Sections principales
 
-- Presentations Gamma : `presentations/README.md`
+- Presentations Gamma : `presentations/README.md` (debuter ici si le vocabulaire IA / RAG est flou)
 - Journal mensuel : `journal/`
 - Ressources et stack : `resources.md`
 - Progression certifications : `certifications/progression.md`
 - Conventions projets : `docs/conventions-projets.md`
 - Working rules : `docs/working-rules.md`
 - ADR : `docs/adr/`
+- Template public Obsidian : [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline)
 
 ## Certifications en cours
 

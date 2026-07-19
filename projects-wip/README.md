@@ -7,6 +7,7 @@ Quand un projet devient stable et publiable, il passe dans `projects-released/`.
 |---|---|---|
 | [Lyla-OS](./lyla-os.md) | En evolution | Construire une IA locale utile, fiable et orientee usage concret |
 | rag-core | En cours | Poser une brique RAG locale robuste et documentee |
+| [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public (template) | Mode d'emploi Obsidian + recherche dans les notes — parcours debutant ; sans donnees personnelles |
 
 ## Regle
 
