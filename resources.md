@@ -18,8 +18,6 @@
 - Documentation continue pour garder la trace.
 - Publication progressive des travaux non sensibles.
 
-## Rythme de publication
+## Publication / templates
 
-- Journal mensuel dans `journal/`.
-- Presentation Gamma pour chaque projet mature.
-- Mise a jour des certifications dans `certifications/progression.md`.
+- Template public Obsidian + recherche dans les notes : [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) (parcours debutant ; liens vers la serie RAG dans les presentations).

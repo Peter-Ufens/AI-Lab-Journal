@@ -40,6 +40,10 @@ Pour qui veut comprendre les approches RAG sans plonger dans le code.
 | 11 | Les 12 Architectures RAG — Partie 2 : Le RAG qui Reflechit | Mixte, chefs de projet | Comprendre HyDE, Self-RAG, CRAG, Modular RAG | Publiee (mai 2026) | https://gamma.app/docs/Les-12-Architectures-RAG-Partie-2-Le-RAG-qui-Reflechit-78v3mxi39d69dhl |
 | 12 | Les 12 Architectures RAG — Partie 3 : La Frontiere de l'Art | Managers, consultants | Comprendre Graph RAG, Agentic RAG, CAG, Multimodal RAG | Publiee (mai 2026) | https://gamma.app/docs/Les-12-Architectures-RAG-Partie-3-La-Frontiere-de-lArt-hl0806r9ziirfpk |
 
+Detail index : [`RAG-Series/README.md`](RAG-Series/README.md)
+
+**Apres la serie :** pour passer a la pratique (organiser un carnet Obsidian + idee de recherche dans les notes), voir le template public [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline).
+
 ## Vitrine projets personnels
 
 Mes propres projets et trajectoire d'apprentissage.
