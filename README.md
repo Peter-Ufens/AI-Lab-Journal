@@ -38,16 +38,22 @@ Regle simple : **peu de repos publics**, bien expliques. Le reste reste prive ta
 - ADR : `docs/adr/`
 - Template public Obsidian : [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline)
 
-## Certifications en cours
+## Certifications obtenues
 
-- Claude 101 : validee le 19 avril 2026.
-- GH-900 (GitHub Foundations) : en cours.
-- AB-730 (AI Business Professional) : priorite court terme.
-- AI-901 : planifiee apres AB-730.
-- AI-103 : trajectoire ete 2026.
-- AB-731 (AI Transformation Leader) : cible long terme.
+Preuves : LinkedIn (captures 2026-07-26). Detail : `certifications/progression.md`.
 
-Detail et logique de progression : `certifications/progression.md`.
+| Certification | Organisme | Date |
+|---|---|---|
+| Claude 101 | Anthropic | avr. 2026 |
+| Introduction to Claude Cowork | Anthropic | avr. 2026 |
+| Claude Code in Action | Anthropic | avr. 2026 |
+| Introduction to Model Context Protocol | Anthropic | avr. 2026 |
+| Introduction to subagents | Anthropic | avr. 2026 |
+| Introduction to agent skills | Anthropic | avr. 2026 |
+| ITIL® v4 Foundation | PeopleCert | mars 2026 (expire mars 2029) |
+| AZ-800 · Administration infrastructure Windows Server hybride | Microsoft | mai 2025 |
+
+D'autres certifications (Microsoft / GitHub) restent possibles **si opportunite** (formation, reprise). Elles ne sont pas affichees ici tant qu'elles ne sont pas obtenues.
 
 ## Comment me joindre
 
