@@ -14,9 +14,9 @@
 ## Approche de travail
 
 - Vibe coding guide par objectifs concrets.
-- Une brique a la fois (RAG -> Vault -> MCP).
+- Une brique a la fois (ex. template Obsidian public, puis MCP, puis presence Lyla).
 - Documentation continue pour garder la trace.
-- Publication progressive des travaux non sensibles.
+- Publication progressive des travaux non sensibles (peu de repos publics, bien expliques).
 
 ## Publication / templates
 

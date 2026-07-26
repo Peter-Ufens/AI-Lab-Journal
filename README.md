@@ -1,6 +1,6 @@
 # AI Lab Journal - Peter Ufens
 
-Portfolio public de ma progression en IA - du systeme a l'intelligence artificielle.
+Portfolio public de ma progression en IA : du systeme a l'intelligence artificielle.
 
 ## Qui je suis
 
@@ -18,15 +18,14 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 | Projet | Visibilite | Note |
 |---|---|---|
 | AI-Lab-Journal | Public | Ce hub. |
-| lyla-prototype | Public | Prototype IA local-first, vitrine technique. |
-| [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public | Template Obsidian + recherche dans les notes (RAG) — mode d'emploi **debutant** (RH / metier / assistant IA), sans donnees personnelles. |
-| rag-core | Prive | Bascule public planifiee apres audit qualite. |
-| rag-vault | Prive | Bascule public planifiee apres audit qualite. |
-| rag-connectors | Prive | Bascule public planifiee apres audit qualite. |
-| iris-mcp-server | Prive | Serveur MCP TypeScript modulaire, 5 outils operationnels (v0.2.0), migration depuis Hybrid-Agentic-Studio. |
-| Lyla-OS | Prive | Projet personnel, decision de bascule ulterieure. |
+| [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public | **Vitrine template** Obsidian + recherche dans les notes (RAG). Mode d'emploi debutant (RH / metier / assistant IA), sans donnees personnelles. |
+| lyla-prototype | Public | PoC historique (Gemini + chat SSE). Pas le produit Lyla actuel. |
+| iris-mcp-server | Prive | Serveur MCP TypeScript (outils agentes). |
+| Nora-n8n · Lyla-Vision · Lyla-Avatar · Lana… | Prive | Briques Lyla en iteration locale (ecosysteme multi-projets). |
+| Lyla-OS | Prive | Heritage / lab perso. **Pas d'installateur MSI.** Usage eventuel en `npm run dev` seulement. |
+| rag-core · rag-vault · rag-connectors · rag-hub | Prive | Lab RAG local. La vitrine publique = `obsidian-rag-pipeline` (pas de bascule publique forcee de ces repos). |
 
-Certains projets restent prives le temps d'un audit qualite (secrets, conformite, presentation). Ils basculent en public quand ils sont prets.
+Regle simple : **peu de repos publics**, bien expliques. Le reste reste prive tant que qualite / secrets / presentation ne sont pas prets.
 
 ## Sections principales
 
@@ -56,3 +55,5 @@ Detail et logique de progression : `certifications/progression.md`.
 - Je publie regulierement des presentations Gamma utilisees aussi pour des cours sur l'intelligence artificielle.
 
 Pas d'email ni de telephone publies ici (anti-scraping). Pour un contact professionnel, passer par GitHub.
+
+*MAJ vitrine : 2026-07-26*

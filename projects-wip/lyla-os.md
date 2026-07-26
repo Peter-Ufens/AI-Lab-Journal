@@ -1,31 +1,34 @@
-# Lyla-OS
+# Lyla (ecosysteme)
 
 ## Statut
 
-- Projet principal en evolution continue.
-- Base technique deja solide, avec progression par versions.
+- Avance par **briques** (plusieurs projets Cursor / repos prives), pas par un monolithe + installateur.
+- `Lyla-OS` (repo prive) = heritage / lab. **Pas de MSI.**
+- PoC public historique : [lyla-prototype](https://github.com/Peter-Ufens/lyla-prototype) (Gemini + chat). Ce n'est **pas** le produit actuel.
 
 ## Vision
 
-Construire une IA locale qui aide vraiment au quotidien, avec une approche pragmatique:
+Construire une IA locale utile au quotidien :
 
-- architecture modulaire
+- architecture modulaire (yeux, presence, LLM, workflows, MCP…)
 - traces documentees
-- priorite a la fiabilite avant la demo
+- priorite a la fiabilite avant la demo grand public
 
-## Axes techniques
+## Axes techniques (prive)
 
-- orchestration des modeles
-- memoire et contexte
-- outillage local (Ollama, Qdrant, n8n, docs)
-- interface exploitable pour usage reel
+- Vision / Avatar (presence)
+- Lana = Ollama (cerveau local)
+- Nora = n8n (workflows)
+- Iris = MCP (outils)
+- Memoire produit et conducteur runtime = plus tard
 
 ## Trajectoire
 
-- Phase actuelle: stabiliser les briques (RAG d'abord).
-- Ensuite: interconnexion avec le repo Obsidian.
-- Puis: nouvelles briques selon priorites et retours terrain.
+- Phase actuelle : stabiliser les briques une a une.
+- Publication : peu de repos publics ; le hub reste [AI-Lab-Journal](https://github.com/Peter-Ufens/AI-Lab-Journal).
+- Template Obsidian / RAG pour les autres : [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline).
 
 ## Notes
 
-Ce document reste volontairement synthétique pour une lecture portfolio rapide.
+Document volontairement synthetique pour une lecture portfolio rapide.  
+*MAJ 2026-07-26*

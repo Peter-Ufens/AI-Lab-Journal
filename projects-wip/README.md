@@ -1,15 +1,17 @@
 # Projects WIP
 
 Projets en cours de construction.  
-Quand un projet devient stable et publiable, il passe dans `projects-released/`.
+Quand un projet devient stable et publie (ou a une release claire), il passe dans `projects-released/` ou dans le tableau public du README hub.
 
 | Projet | Statut | Objectif |
 |---|---|---|
-| [Lyla-OS](./lyla-os.md) | En evolution | Construire une IA locale utile, fiable et orientee usage concret |
-| rag-core | En cours | Poser une brique RAG locale robuste et documentee |
-| [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public (template) | Mode d'emploi Obsidian + recherche dans les notes — parcours debutant ; sans donnees personnelles |
+| [Lyla (ecosysteme)](./lyla-os.md) | En evolution (briques privees) | Compagne / outillage IA local par composants, sans packaging MSI |
+| [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public (template) | Mode d'emploi Obsidian + recherche dans les notes · parcours debutant · sans donnees personnelles |
+| iris-mcp-server | Prive / actif | Multiprise MCP pour agentes |
+| rag-* (core / vault / connectors / hub) | Prive / lab | Stack RAG locale · **pas** la vitrine (voir template public) |
 
 ## Regle
 
 - Un projet ici = phase active, encore en iteration.
-- Documentation courte, factuelle, et mise a jour par jalons.
+- Documentation courte, factuelle, mise a jour par jalons.
+- Ne pas promettre une bascule publique sur un repo lab tant que le template / hub ne le couvre pas deja.
