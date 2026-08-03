@@ -19,7 +19,8 @@ Pour qui debute en IA ou veut comprendre les concepts de base.
 |---|---|---|---|---|---|
 | 01 | Les 6 fondamentaux de l'IA | Debutants, grand public | Premiere approche IA en entreprise | Publiee (mai 2026) | https://gamma.app/docs/Les-6-fondamentaux-de-lIA-8zdgk26mcfsn86s |
 | 02 | Aller plus loin avec l'IA | Curieux niveau 2 | Prompt engineering, securite et RAG vulgarises | Publiee (mai 2026) | https://gamma.app/docs/Aller-plus-loin-avec-lIA-33mbbspwd5n8aff |
-| 03 | MCP explique simplement | Profils non-tech bureau | Comprendre le standard MCP en 20 min | Publiee (mai 2026) | https://gamma.app/docs/MCP-explique-simplement-zdk7hi92hsxsnn1 |
+| 03 | MCP explique simplement | Profils non-tech bureau | Comprendre le standard MCP en 20 min | Publiee (mai 2026) · audit Audit-Github | https://gamma.app/docs/MCP-explique-simplement-zdk7hi92hsxsnn1 |
+| 03b | Iris-MCP : brancher les IA sur des outils reels | FT, recruteurs, curieux | Produit Iris (repo public) | Publiee (aout 2026) · compte gratuit · audit Pro plus tard si upgrade | https://gamma.app/docs/Iris-MCP-brancher-les-IA-sur-des-outils-reels-rzpbly9kqpju074 |
 
 ## Parcours pratique technique
 
@@ -28,6 +29,7 @@ Pour qui veut mettre les mains dans le concret.
 | # | Sujet | Audience | Use case | Statut | Lien |
 |---|---|---|---|---|---|
 | 04 | Faire tourner une IA sur son PC en 4 etapes | Profils metier curieux | Tutoriel IA locale (Ollama, HuggingFace, LLM Checker) | Publiee (mai 2026) | https://gamma.app/docs/Faire-tourner-une-IA-sur-son-PC-en-4-etapes-kb1cg2xuckkkr0p |
+| 04b | Lana : une IA puissante chez toi | FT, recruteurs, curieux | Produit Lana (= Ollama local, Cursor BYOK) | Publiee (aout 2026) · compte gratuit · captures Cursor | https://gamma.app/docs/Lana-Une-IA-puissante-chez-toi-sans-envoyer-tes-donnees-au-cloud-fajjjiutbc9c9r0 |
 | 05 | Construire un reseau orchestre de LLMs chez soi en no-code | Profils techniques, consultants | Architecture locale pragmatique | Publiee (avril 2026) | https://gamma.app/docs/Construire-un-reseau-orchestre-de-LLMs-chez-soi-en-no-code-fh3jp4fo23iehqm |
 
 ## Serie RAG — Les 12 architectures RAG
