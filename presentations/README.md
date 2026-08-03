@@ -31,6 +31,7 @@ Pour qui veut mettre les mains dans le concret.
 | 04 | Faire tourner une IA sur son PC en 4 etapes | Profils metier curieux | Tutoriel IA locale (Ollama, HuggingFace, LLM Checker) | Publiee (mai 2026) | https://gamma.app/docs/Faire-tourner-une-IA-sur-son-PC-en-4-etapes-kb1cg2xuckkkr0p |
 | 04b | Lana : une IA puissante chez toi | FT, recruteurs, curieux | Produit Lana (= Ollama local, Cursor BYOK) | Publiee (aout 2026) · compte gratuit · captures Cursor | https://gamma.app/docs/Lana-Une-IA-puissante-chez-toi-sans-envoyer-tes-donnees-au-cloud-fajjjiutbc9c9r0 |
 | 05 | Construire un reseau orchestre de LLMs chez soi en no-code | Profils techniques, consultants | Architecture locale pragmatique | Publiee (avril 2026) | https://gamma.app/docs/Construire-un-reseau-orchestre-de-LLMs-chez-soi-en-no-code-fh3jp4fo23iehqm |
+| 05b | Nora : l'orchestre de mon IA locale | FT, recruteurs, curieux | Produit Nora (= n8n orchestration locale) | Publiee (aout 2026) · compte gratuit · polish Pro plus tard | https://gamma.app/docs/Nora-lorchestre-de-mon-IA-locale-glcyc59hja67dk0 |
 
 ## Serie RAG — Les 12 architectures RAG
 
