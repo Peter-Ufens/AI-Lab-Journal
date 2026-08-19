@@ -21,6 +21,7 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 | [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public | **Vitrine template** Obsidian + recherche dans les notes (RAG). Mode d'emploi debutant (RH / metier / assistant IA), sans donnees personnelles. |
 | lyla-prototype | Public | PoC historique (Gemini + chat SSE). Pas le produit Lyla actuel. |
 | [iris-mcp-server](https://github.com/Peter-Ufens/iris-mcp-server) | **Public** | Serveur MCP TypeScript (21 outils, 88 tests) · vitrine juillet 2026 |
+| [lab-chambre-canicule](https://github.com/Peter-Ufens/lab-chambre-canicule) | **Public** | Lab canicule : ESP32 + Pi, mesures chaleur, prompt IA dimensionnement clim (aout 2026) |
 | Nora-n8n · Lyla-Vision · Lyla-Avatar · Lana… | Prive | Briques Lyla en iteration locale (ecosysteme multi-projets). |
 | Companion-OS | Prive | Heritage / lab perso. **Pas d'installateur MSI.** Usage eventuel en `npm run dev` seulement. |
 | rag-core · rag-vault · rag-connectors · rag-hub | Prive | Lab RAG local. La vitrine publique = `obsidian-rag-pipeline` (pas de bascule publique forcee de ces repos). |
@@ -62,4 +63,4 @@ D'autres certifications (Microsoft / GitHub) restent possibles **si opportunite*
 
 Pas d'email ni de telephone publies ici (anti-scraping). Pour un contact professionnel, passer par GitHub.
 
-*MAJ vitrine : 2026-07-26*
+*MAJ vitrine : 2026-08-19*
