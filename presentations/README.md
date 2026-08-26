@@ -34,6 +34,7 @@ Pour qui veut mettre les mains dans le concret.
 | 05 | Construire un reseau orchestre de LLMs chez soi en no-code | Profils techniques, consultants | Architecture locale pragmatique | Publiee (avril 2026) | https://gamma.app/docs/Construire-un-reseau-orchestre-de-LLMs-chez-soi-en-no-code-fh3jp4fo23iehqm |
 | 05b | Nora : l'orchestre de mon IA locale | FT, recruteurs, curieux | Produit Nora (= n8n orchestration locale) | Publiee (aout 2026) · polish Pro fait | https://gamma.app/docs/Nora-lorchestre-de-mon-IA-locale-glcyc59hja67dk0 |
 | 05c | MAG : voici mon cerveau numerique | FT, recruteurs, curieux | Produit MAG (= memoire / vault Obsidian) | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s |
+| 05d | Cerveau connecte : notes, atomes, IA | FT, recruteurs tech, curieux | Pipeline MAG : 3 voies Cursor / Claude / Copilot + atomes | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd |
 
 ## Serie RAG — Les 12 architectures RAG
 
@@ -47,7 +48,7 @@ Pour qui veut comprendre les approches RAG sans plonger dans le code.
 
 Detail index : [`RAG-Series/README.md`](RAG-Series/README.md)
 
-**Apres la serie :** pour passer a la pratique (organiser un carnet Obsidian + idee de recherche dans les notes), voir le template public [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) et la presentation produit [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s).
+**Apres la serie :** pour passer a la pratique, voir le template [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline), la presentation [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s), puis [Cerveau connecte : notes, atomes, IA](https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd) (pipeline d'ingest).
 
 ## Vitrine projets personnels
 
