@@ -32,7 +32,8 @@ Pour qui veut mettre les mains dans le concret.
 | 04b | Lana : une IA puissante chez toi | FT, recruteurs, curieux | Produit Lana (= Ollama local, Cursor BYOK) | Publiee (aout 2026) · compte gratuit · captures Cursor | https://gamma.app/docs/Lana-Une-IA-puissante-chez-toi-sans-envoyer-tes-donnees-au-cloud-fajjjiutbc9c9r0 |
 | 04c | Canicule, pas de clim : dimensionner avant d'acheter | FT, grand public, curieux IoT | Lab ESP32 + Pi · mesures · prompt IA jour J | Publiee (aout 2026) · repo public | https://gamma.app/docs/Canicule-pas-de-clim-comment-ne-pas-se-tromper-dappareil-0y21j1gd58cd990 |
 | 05 | Construire un reseau orchestre de LLMs chez soi en no-code | Profils techniques, consultants | Architecture locale pragmatique | Publiee (avril 2026) | https://gamma.app/docs/Construire-un-reseau-orchestre-de-LLMs-chez-soi-en-no-code-fh3jp4fo23iehqm |
-| 05b | Nora : l'orchestre de mon IA locale | FT, recruteurs, curieux | Produit Nora (= n8n orchestration locale) | Publiee (aout 2026) · compte gratuit · polish Pro plus tard | https://gamma.app/docs/Nora-lorchestre-de-mon-IA-locale-glcyc59hja67dk0 |
+| 05b | Nora : l'orchestre de mon IA locale | FT, recruteurs, curieux | Produit Nora (= n8n orchestration locale) | Publiee (aout 2026) · polish Pro fait | https://gamma.app/docs/Nora-lorchestre-de-mon-IA-locale-glcyc59hja67dk0 |
+| 05c | MAG : voici mon cerveau numerique | FT, recruteurs, curieux | Produit MAG (= memoire / vault Obsidian) | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s |
 
 ## Serie RAG — Les 12 architectures RAG
 
@@ -46,7 +47,7 @@ Pour qui veut comprendre les approches RAG sans plonger dans le code.
 
 Detail index : [`RAG-Series/README.md`](RAG-Series/README.md)
 
-**Apres la serie :** pour passer a la pratique (organiser un carnet Obsidian + idee de recherche dans les notes), voir le template public [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline).
+**Apres la serie :** pour passer a la pratique (organiser un carnet Obsidian + idee de recherche dans les notes), voir le template public [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) et la presentation produit [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s).
 
 ## Vitrine projets personnels
 
