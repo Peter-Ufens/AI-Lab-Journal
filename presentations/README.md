@@ -39,6 +39,7 @@ Pour qui veut mettre les mains dans le concret.
 | 05f | Lyla-Vision : quand l'IA voit chez moi (local) | FT, recruteurs tech, curieux vision | Vision locale webcam + ecran · module Lego · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-Vision-quand-lIA-voit-chez-moi-local-cycg22uje4vo85l |
 | 05g | Lyla-Avatar : la presence visuelle de Lyla (local 2D) | FT, recruteurs, curieux | Avatar 2D local · presence visuelle · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-Avatar-la-presence-visuelle-de-Lyla-local-2D-4h5zvowy9g6xxf5 |
 | 05h | Cloudflare chez moi : exposer mon lab sans exposer ma box | FT, recruteurs infra, curieux homelab | Tunnels sortants · Access · domaine peter-ufens.dev · sans secrets | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Cloudflare-chez-moi-exposer-mon-lab-sans-exposer-ma-box-nzmhj9xds88zp9n |
+| 05i | Lyla-App : la fenetre bureau de mon IA locale | FT, recruteurs, curieux | Shell Electron local · chat multi-fils · Ollama · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-App-la-fenetre-bureau-de-mon-IA-locale-ljo617zo5yx4ryq |
 
 ## Serie RAG — Les 12 architectures RAG
 
