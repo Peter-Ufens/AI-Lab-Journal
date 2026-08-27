@@ -35,6 +35,7 @@ Pour qui veut mettre les mains dans le concret.
 | 05b | Nora : l'orchestre de mon IA locale | FT, recruteurs, curieux | Produit Nora (= n8n orchestration locale) | Publiee (aout 2026) · polish Pro fait | https://gamma.app/docs/Nora-lorchestre-de-mon-IA-locale-glcyc59hja67dk0 |
 | 05c | MAG : voici mon cerveau numerique | FT, recruteurs, curieux | Produit MAG (= memoire / vault Obsidian) | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s |
 | 05d | Cerveau connecte : notes, atomes, IA | FT, recruteurs tech, curieux | Pipeline MAG : 3 voies Cursor / Claude / Copilot + atomes | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd |
+| 05e | Mon RAG maison : retrouver mes notes avec l'IA | FT, recruteurs, curieux PKM | Installation RAG perso (Obsidian, Ollama, Qdrant local) | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Mon-RAG-maison-retrouver-mes-notes-avec-lIA-rpeta71njsck9it |
 
 ## Serie RAG — Les 12 architectures RAG
 
@@ -48,7 +49,7 @@ Pour qui veut comprendre les approches RAG sans plonger dans le code.
 
 Detail index : [`RAG-Series/README.md`](RAG-Series/README.md)
 
-**Apres la serie :** pour passer a la pratique, voir le template [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline), la presentation [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s), puis [Cerveau connecte : notes, atomes, IA](https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd) (pipeline d'ingest).
+**Apres la serie :** pour passer a la pratique, voir le template [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline), la presentation [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s), [Mon RAG maison](https://gamma.app/docs/Mon-RAG-maison-retrouver-mes-notes-avec-lIA-rpeta71njsck9it), puis [Cerveau connecte : notes, atomes, IA](https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd) (pipeline d'ingest).
 
 ## Vitrine projets personnels
 
@@ -60,6 +61,7 @@ Mes propres projets et trajectoire d'apprentissage.
 | 07 | Mon IA accessible de partout (projet Raspberry Pi) | Tech + jury technique | Architecture mobile/local hybride avec Wake-on-LAN | Plan d'execution (Q2-Q3 2026) | https://gamma.app/docs/Mon-IA-accessible-de-partout-kayi00c587jj4iz |
 | 08 | AI Pocket Coach - Revise l'IA dans ta poche | Mixte (produit + pedagogie IA) | Application mobile educative IA | Vision projet (en cours) | https://gamma.app/docs/AI-Pocket-Coach-Revise-lIA-dans-ta-poche-uvxy9qq1q0mzqo9 |
 | 09 | De l'admin systeme a JARVIS | Recruteurs, managers | Trajectoire personnelle vers l'IA | Publiee (avril 2026) | https://gamma.app/docs/De-ladmin-systeme-a-JARVIS-7s4lrjf92j3e4yt?mode=doc |
+| 09b | Pourquoi je nomme mes agents / outils avec des noms humains ? | FT, recruteurs, curieux | Naming Lana, Karen, Iris, Nora (roles, pas personnages) | Publiee (aout 2026) | https://gamma.app/docs/Pourquoi-je-nomme-mes-agents-outils-avec-des-noms-humains--of4wq0ipndyg8po |
 
 ## Regle d'edition
 
