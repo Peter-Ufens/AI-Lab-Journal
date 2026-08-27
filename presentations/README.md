@@ -36,6 +36,7 @@ Pour qui veut mettre les mains dans le concret.
 | 05c | MAG : voici mon cerveau numerique | FT, recruteurs, curieux | Produit MAG (= memoire / vault Obsidian) | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s |
 | 05d | Cerveau connecte : notes, atomes, IA | FT, recruteurs tech, curieux | Pipeline MAG : 3 voies Cursor / Claude / Copilot + atomes | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd |
 | 05e | Mon RAG maison : retrouver mes notes avec l'IA | FT, recruteurs, curieux PKM | Installation RAG perso (Obsidian, Ollama, Qdrant local) | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Mon-RAG-maison-retrouver-mes-notes-avec-lIA-rpeta71njsck9it |
+| 05f | Lyla-Vision : quand l'IA voit chez moi (local) | FT, recruteurs tech, curieux vision | Vision locale webcam + ecran · module Lego · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-Vision-quand-lIA-voit-chez-moi-local-cycg22uje4vo85l |
 
 ## Serie RAG — Les 12 architectures RAG
 
