@@ -42,6 +42,7 @@ Pour qui veut mettre les mains dans le concret.
 | 05h | Cloudflare chez moi : exposer mon lab sans exposer ma box | FT, recruteurs infra, curieux homelab | Tunnels sortants · Access · domaine peter-ufens.dev · sans secrets | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Cloudflare-chez-moi-exposer-mon-lab-sans-exposer-ma-box-nzmhj9xds88zp9n |
 | 05i | Lyla-App : la fenetre bureau de mon IA locale | FT, recruteurs, curieux | Shell Electron local · chat multi-fils · Ollama · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-App-la-fenetre-bureau-de-mon-IA-locale-ljo617zo5yx4ryq |
 | 05j | Lyla-Memory : le carnet de mon IA locale | FT, recruteurs, curieux | Memoire produit locale · faits valides · oubli soft · ≠ RAG / MAG | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-Memory-le-carnet-de-mon-IA-locale-xe1mqu6bkcm7p6y |
+| **05k** | **Le burger : comment on empile les sens d'une IA** | FT, recruteurs, curieux multimodalite | Fusion Layer · analogie burger ↔ modalites (texte, vision, ouie, memoire, orchestration) · fusion pas commencee | Publiee (sept. 2026) · polish OK 13/09 | https://gamma.app/docs/Le-burger-comment-on-empile-les-sens-dune-IA-50tvqbr74jqyq84 |
 
 ## Serie RAG — Les 12 architectures RAG
 
