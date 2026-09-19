@@ -35,7 +35,7 @@ Pour qui veut mettre les mains dans le concret.
 | 05 | Construire un reseau orchestre de LLMs chez soi en no-code | Profils techniques, consultants | Architecture locale pragmatique | Publiee (avril 2026) | https://gamma.app/docs/Construire-un-reseau-orchestre-de-LLMs-chez-soi-en-no-code-fh3jp4fo23iehqm |
 | 05b | Nora : l'orchestre de mon IA locale | FT, recruteurs, curieux | Produit Nora (= n8n orchestration locale) | Publiee (aout 2026) · polish Pro fait | https://gamma.app/docs/Nora-lorchestre-de-mon-IA-locale-glcyc59hja67dk0 |
 | 05c | MAG : voici mon cerveau numerique | FT, recruteurs, curieux | Produit MAG (= memoire / vault Obsidian) | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s |
-| 05d | Cerveau connecte : notes, atomes, IA | FT, recruteurs tech, curieux | Pipeline MAG : 3 voies Cursor / Claude / Copilot + atomes | Publiee (aout 2026) · Gamma Pro | https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd |
+| 05d | De la planete a l'atome | FT, recruteurs tech, curieux | Pipeline MAG : zoom planete→atome · 3 voies Cursor / Claude / Copilot · lexique atome≠chunk | Publiee · validee Peter 19/09/2026 · Gamma Pro · theme cosmos | https://gamma.app/docs/De-la-planete-a-latome-pf9ops0ylimxxwd |
 | 05e | Mon RAG maison : retrouver mes notes avec l'IA | FT, recruteurs, curieux PKM | Installation RAG perso (Obsidian, Ollama, Qdrant local) | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Mon-RAG-maison-retrouver-mes-notes-avec-lIA-rpeta71njsck9it |
 | 05f | Lyla-Vision : quand l'IA voit chez moi (local) | FT, recruteurs tech, curieux vision | Vision locale webcam + ecran · module Lego · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-Vision-quand-lIA-voit-chez-moi-local-cycg22uje4vo85l |
 | 05g | Lyla-Avatar : la presence visuelle de Lyla (local 2D) | FT, recruteurs, curieux | Avatar 2D local · presence visuelle · repo prive | Publiee (aout 2026) · polish Pro | https://gamma.app/docs/Lyla-Avatar-la-presence-visuelle-de-Lyla-local-2D-4h5zvowy9g6xxf5 |
@@ -56,7 +56,7 @@ Pour qui veut comprendre les approches RAG sans plonger dans le code.
 
 Detail index : [`RAG-Series/README.md`](RAG-Series/README.md)
 
-**Apres la serie :** pour passer a la pratique, voir le template [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline), la presentation [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s), [Mon RAG maison](https://gamma.app/docs/Mon-RAG-maison-retrouver-mes-notes-avec-lIA-rpeta71njsck9it), puis [Cerveau connecte : notes, atomes, IA](https://gamma.app/docs/Cerveau-connecte-notes-atomes-IA-pf9ops0ylimxxwd) (pipeline d'ingest).
+**Apres la serie :** pour passer a la pratique, voir le template [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline), la presentation [MAG : voici mon cerveau numerique](https://gamma.app/docs/MAG-voici-mon-cerveau-numerique-hvox1ndmko23s4s), [Mon RAG maison](https://gamma.app/docs/Mon-RAG-maison-retrouver-mes-notes-avec-lIA-rpeta71njsck9it), puis [De la planete a l'atome](https://gamma.app/docs/De-la-planete-a-latome-pf9ops0ylimxxwd) (pipeline MAG · ex « Cerveau connecte »).
 
 ## Vitrine projets personnels
 
