@@ -20,7 +20,7 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 | AI-Lab-Journal | Public | Ce hub. |
 | [obsidian-rag-pipeline](https://github.com/Peter-Ufens/obsidian-rag-pipeline) | Public | **Vitrine template** Obsidian + recherche dans les notes (RAG). Mode d'emploi debutant (RH / metier / assistant IA), sans donnees personnelles. |
 | lyla-prototype | Public | PoC historique (Gemini + chat SSE). Pas le produit Lyla actuel. |
-| [iris-mcp-server](https://github.com/Peter-Ufens/iris-mcp-server) | **Public** | Serveur MCP TypeScript (21 outils, 88 tests) · vitrine juillet 2026 |
+| [iris-mcp-server](https://github.com/Peter-Ufens/iris-mcp-server) | **Public** | Serveur MCP TypeScript (29 outils, 404 tests) · v0.12.0 · vitrine oct. 2026 |
 | [lab-chambre-canicule](https://github.com/Peter-Ufens/lab-chambre-canicule) | **Public** | Lab canicule : ESP32 + Pi, mesures chaleur, prompt IA dimensionnement clim (aout 2026) |
 | [fusion-layer-public](https://github.com/Peter-Ufens/fusion-layer-public) | **Public** | Fusion Layer V1 (preuve labo multimodale Windows) · release v1.0.0 · sept. 2026 · ops prive = Fusion-Layer |
 | Nora-n8n · Lyla-Vision · Lyla-Avatar · Lana… | Prive | Briques Lyla en iteration locale (ecosysteme multi-projets). |
@@ -64,4 +64,4 @@ D'autres certifications (Microsoft / GitHub) restent possibles **si opportunite*
 
 Pas d'email ni de telephone publies ici (anti-scraping). Pour un contact professionnel, passer par GitHub.
 
-*MAJ vitrine : 2026-09-18*
+*MAJ vitrine : 2026-10-22 (Iris 29/404)*
