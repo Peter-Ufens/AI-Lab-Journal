@@ -1,7 +1,7 @@
 # Progression certifications
 
 > Source : LinkedIn Peter (captures 2026-07-26) + correction post-licenciement.  
-> **Public = obtenues seulement.** Souhaitées = vault privé (`Profil-Peter-Canonique`).
+> **Public = obtenues seulement.** Souhaitées = vault privé.
 
 ## Obtenues (vitrine)
 
