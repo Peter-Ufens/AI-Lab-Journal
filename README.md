@@ -23,7 +23,8 @@ Apres 11 ans en IT (admin systeme et infrastructure), j'opere depuis mars 2026 u
 | [iris-mcp-server](https://github.com/Peter-Ufens/iris-mcp-server) | **Public** | Serveur MCP TypeScript (29 outils, 404 tests) · v0.12.0 · vitrine oct. 2026 |
 | [lab-chambre-canicule](https://github.com/Peter-Ufens/lab-chambre-canicule) | **Public** | Lab canicule : ESP32 + Pi, mesures chaleur, prompt IA dimensionnement clim (aout 2026) |
 | [fusion-layer-public](https://github.com/Peter-Ufens/fusion-layer-public) | **Public** | Fusion Layer V1 (preuve labo multimodale Windows) · release v1.0.0 · sept. 2026 · ops prive = Fusion-Layer |
-| Nora-n8n · Lyla-Vision · Lyla-Avatar · Lana… | Prive | Briques Lyla en iteration locale (ecosysteme multi-projets). |
+| [vision-public](https://github.com/Peter-Ufens/vision-public) | **Public** | Oeil PC (grille, OCR, veille active) · Apache-2.0 · oct. 2026 · fiche `projects-released/vision-public.md` |
+| Nora-n8n · Lyla-Avatar · Lana… | Prive | Briques Lyla en iteration locale (ecosysteme multi-projets). Ops vision privee = hors vitrine. |
 | Companion-OS | Prive | Heritage / lab perso. **Pas d'installateur MSI.** Usage eventuel en `npm run dev` seulement. |
 | rag-core · rag-vault · rag-connectors · rag-hub | Prive | Lab RAG local. La vitrine publique = `obsidian-rag-pipeline` (pas de bascule publique forcee de ces repos). |
 
