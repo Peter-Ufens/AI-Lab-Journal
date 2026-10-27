@@ -16,13 +16,14 @@ Outil personnel pour **lire l'ecran** d'un PC (grille, OCR, veille active, suivi
 
 ## Ce que ce n'est pas
 
-- Pas le produit marque Lyla en public.
+- Pas le produit principal du labo.
 - Pas d'actuation (mains = autre chantier).
 - Pas de daemon 24/7 : sessions bornees (`--duree`).
 
-## Controles avant publication (26/10)
+## Controles a la publication (26/10) · relecture 27/10
 
-- Oeil machine : clone frais, 74 fichiers, 0 secret, 0 prenom d'agente, LICENSE + NOTICE presents.
+- Oeil machine : clone frais, 74 fichiers, 0 secret, 0 nom interne, LICENSE + NOTICE presents.
 - Oeil humain : page GitHub (About, README, Apache-2.0, structure).
+- Exceptions declarees (2 noms d'applications du marche dans la table des categories) : acceptees Peter 27/10.
 
-*Fiche posee a la creation publique · 2026-10-26*
+*Fiche posee a la creation publique · 2026-10-26 · retouche G1/B4 27/10*
